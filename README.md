@@ -4,10 +4,6 @@
 
 This project implements Hidden Markov Models (HMM) for audio recognition, specifically focusing on digit recognition (0-9) and speaker identification. The implementation includes both a library-based approach using `hmmlearn` and a custom implementation from scratch.
 
-**Author:** Amin Aghakasiri  
-**Student ID:** 810101381  
-**Course:** Introduction to Artificial Intelligence - Computer Assignment 2
-
 ## Project Description
 
 The goal of this project is to build HMM models that can:
